@@ -61,8 +61,5 @@ aspfdnalnfaopfba3pnwao dapnp
     val input = readlnOrNull()
     val numero = input?.toIntOrNull()
     //cambio interesante
-    //cambio pendiente
-    //cambio que se me olvidó por tonto
-    //Estoy hartoooooooooooooooooo
 }
 asdnaspdoajoooo´pka+sd+é

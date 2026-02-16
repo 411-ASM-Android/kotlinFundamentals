@@ -56,7 +56,7 @@ fun main() {
     }
         while(counter < 30)
     //Determinar si un numero ingresado por el usuario es un numero primo
-
+aspfdnalnfaopfba3pnwao dapnp
         println("Pon un numero")
     val input = readlnOrNull()
     val numero = input?.toIntOrNull()
@@ -65,3 +65,4 @@ fun main() {
     //cambio que se me olvidó por tonto
     //Estoy hartoooooooooooooooooo
 }
+asdnaspdoajoooo´pka+sd+é

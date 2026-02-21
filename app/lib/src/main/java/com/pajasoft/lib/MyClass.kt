@@ -39,11 +39,6 @@ fun main() {
     for(i in 100 downTo 0 step 10) {
         println(i)
     }
-    when (age){
-        null-> println("El numero que pusiste pa, no es un numero entero, insertalo bien!!")
-        in 18..Integer.MAX_VALUE-> println("Entrale") //Integer.MAX_VALUE para poner infinito
-        else -> println("No puedes pasar pai")
-    }
 
     var counter : Int = 12
     while (counter < 20){
